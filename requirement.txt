@@ -2,5 +2,5 @@ streamlit>=1.30.0
 pandas>=2.0.0
 matplotlib>=3.7.0
 openpyxl>=3.1.0
-numpy>=1.24.0  # matplotlib 依赖 numpy，必须加上
-pillow>=9.0.0  # 可选，但避免图表显示问题
+numpy>=1.24.0
+pillow>=9.0.0 
